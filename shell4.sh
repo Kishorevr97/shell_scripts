@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "I'm Kishore"
+echo "Devops Engineer"
+echo "welcome to the world of devops"
+echo "Amazon web services"
+echo "bash scriptng"
+echo "dockers"
+echo "kubernetes"
+echo "jenkins"
+echo "Git"
